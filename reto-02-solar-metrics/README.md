@@ -18,6 +18,6 @@ A través de este reto, demostramos por qué la aritmética de punto flotante (`
 
 ```text
 src/
-└── main/java/com/tuusuario/
+└── main/java
     ├── SolarMetricsProcessor.java   # Core lógico y cálculos con BigDecimal
     └── Main.java                    # Simulador de telemetría y prueba de vulnerabilidad del 'double'
