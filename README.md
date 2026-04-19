@@ -1,10 +1,9 @@
-# ⚡ Java & Spring Boot: Advanced Backend Mastery
+# Java & Spring Boot: Advanced Backend Mastery
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2+-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Hexagonal-blue?style=for-the-badge)
 
-Este repositorio contiene una serie de proyectos incrementales diseñados para consolidar habilidades de ingeniería de software a nivel profesional utilizando el ecosistema moderno de Java. No son simples tutoriales; son soluciones a problemas de negocio reales enfocados en escalabilidad, código limpio y patrones de diseño avanzados.
+Este repositorio contiene una serie de proyectos incrementales diseñados para consolidar habilidades de ingeniería de software a nivel profesional utilizando el ecosistema moderno de Java. 
 
 ## 🧠 Filosofía de Desarrollo
 
