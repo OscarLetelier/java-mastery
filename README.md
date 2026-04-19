@@ -2,14 +2,12 @@
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2+-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Hexagonal-blue?style=for-the-badge)
 
 Este repositorio contiene una serie de proyectos incrementales diseñados para consolidar habilidades de ingeniería de software a nivel profesional utilizando el ecosistema moderno de Java. El roadmap está diseñado para dominar primero el núcleo del lenguaje antes de adoptar frameworks.
 
 ## 🧠 Filosofía de Desarrollo
 
 - **Clean Code & Solid:** Código escrito para ser leído por humanos.
-- **Arquitectura Hexagonal (Ports & Adapters):** Desacoplamiento total entre la lógica de negocio (Core) y los detalles de infraestructura (Bases de datos, APIs).
 - **SaaS First:** Enfoque en soluciones multi-tenant.
 - **Modern Java:** Uso intensivo de características de Java 21.
 
